@@ -1,5 +1,5 @@
 -------------------------------------------------------------------------
--- Лабораторная 9  -- Кузнецов Д.А -- БИВТ-20-7 -------------------------
+-- Лабораторная 9  -- Егорова А.С. -- БИВТ-20-7 -------------------------
 -------------------------------------------------------------------------
 insert into SalesLT.Product (Name, ProductNumber, Color, StandardCost, ListPrice, Size, Weight, ProductCategoryID, ProductModelID, SellStartDate, SellEndDate, DiscontinuedDate, ThumbNailPhoto, ThumbnailPhotoFileName)
 values ('LED Lights', 'LT-L123', null, 2.56, 12.99, default, default, 37, default, current_timestamp, null, null, null, null)
